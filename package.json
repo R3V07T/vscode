@@ -68,7 +68,7 @@
     "gulp-sourcemaps": "^1.6.0",
     "gulp-tsb": "^2.0.3",
     "gulp-tslint": "^4.3.0",
-    "gulp-uglify": "^2.0.0",
+    "gulp-uglify": "^3.0.0",
     "gulp-util": "^3.0.6",
     "gulp-vinyl-zip": "^1.2.2",
     "gulp-image-resize": "^0.10.0",
