@@ -48,7 +48,7 @@
     "eslint": "^3.4.0",
     "event-stream": "^3.1.7",
     "express": "^4.13.1",
-    "ghooks": "1.0.3",
+    "ghooks": "2.0.4",
     "glob": "^5.0.13",
     "gulp": "^3.8.9",
     "gulp-atom-electron": "^1.9.0",
