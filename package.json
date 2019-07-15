@@ -71,7 +71,7 @@
     "gulp-uglify": "^2.0.0",
     "gulp-util": "^3.0.6",
     "gulp-vinyl-zip": "^1.2.2",
-    "gulp-image-resize": "^0.10.0",
+    "gulp-image-resize": "^0.13.1",
     "flatpak-bundler": "^0.1.1",
     "innosetup-compiler": "^5.5.60",
     "is": "^3.1.0",
